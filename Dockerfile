@@ -2,7 +2,7 @@
 
 FROM openjdk:17.0.2-jdk-buster
 
-LABEL version="3.12.4"
+LABEL version="3.13.0"
 
 RUN apt-get update && apt-get install -y curl && \
  adduser --uid 99 --gid 100 --home /data --disabled-password minecraft

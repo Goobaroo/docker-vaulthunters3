@@ -1,4 +1,4 @@
-# [Vault Hunters 3rd Edition-3.12.4](https://www.curseforge.com/minecraft/modpacks/vault-hunters-1-18-2) on Curseforge
+# [Vault Hunters 3rd Edition-3.13.0](https://www.curseforge.com/minecraft/modpacks/vault-hunters-1-18-2) on Curseforge
 
 <!-- toc -->
 
