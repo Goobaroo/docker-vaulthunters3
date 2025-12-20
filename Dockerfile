@@ -2,9 +2,9 @@
 
 FROM eclipse-temurin:17-jdk
 
-LABEL version="3.20.1.0"
+LABEL version="3.20.2"
 LABEL homepage.group=Minecraft
-LABEL homepage.name="Vault Hunters Official Pack (3rd Ed.)-3.20.1.0"
+LABEL homepage.name="Vault Hunters Official Pack (3rd Ed.)-3.20.2"
 LABEL homepage.icon="https://media.forgecdn.net/avatars/1559/129/639011733813077828.png"
 LABEL homepage.widget.type=minecraft
 LABEL homepage.widget.url=udp://VaultHunters3rdEdition:25565
